@@ -389,7 +389,7 @@ public sealed class MainForm : Form, IMessageFilter
         TopMost = true;
         ClientSize = new Size(680, 64);
         MinimumSize = new Size(420, 56);
-        BackColor = Color.FromArgb(18, 21, 26);
+        BackColor = Color.FromArgb(22, 28, 40);
         ForeColor = UiTheme.Text;
         Font = new Font("Microsoft YaHei UI", 9F, FontStyle.Regular, GraphicsUnit.Point);
 
